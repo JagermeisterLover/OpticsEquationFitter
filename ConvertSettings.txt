@@ -1,0 +1,10 @@
+SurfaceType=3
+Radius=-600
+H=1
+e2_isVariable=1
+e2=0
+TermNumber=2
+OptimizationAlgorithm=leastsq
+AutoAlgorithm=0
+conic_isVariable=1
+conic=03
